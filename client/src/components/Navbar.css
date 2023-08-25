@@ -1,0 +1,16 @@
+*{
+          margin: 0;
+          padding: 0;
+}
+#tabs{
+          margin-left: 40px;
+          color: #fff;
+          font-size: 30px;
+          text-decoration: none;
+          cursor: pointer;
+          transition: transform 0.3s ;
+}
+#tabs:hover{
+          color: #c7a1a1;
+          transform: translateY(-5px);   
+}
